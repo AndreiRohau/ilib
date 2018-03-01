@@ -26,6 +26,7 @@
 
 		<div id="header1">
 			<p>TRY XML COMMAND</p>
+			<p>check shop</p>
 		</div>
 		
 		<div id="header2">
